@@ -1,6 +1,8 @@
 #csv files
 station.csv
 weather.csv
+status.csv
+trip.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
